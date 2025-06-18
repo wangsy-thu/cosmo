@@ -1,0 +1,16 @@
+/target/
+/.vscode/
+.*.swp
+.*.swo
+*.png
+*.dot
+/.idea
+.DS_Store
+/.vscode
+/logs/
+/cosmo*.db/
+/attr.db/
+/data/
+/cas.db/
+*.log
+/exp-data/
