@@ -10,7 +10,6 @@
 /logs/
 /cosmo*.db/
 /attr.db/
-/data/
 /cas.db/
 *.log
 /exp-data/
