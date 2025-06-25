@@ -9,6 +9,7 @@
 /.vscode
 /logs/
 /cosmo*.db/
+/data/
 /attr.db/
 /cas.db/
 *.log
